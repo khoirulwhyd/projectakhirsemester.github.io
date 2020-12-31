@@ -1,0 +1,8 @@
+.paginate_button{
+    padding: 5px;
+    background-color: beige;
+    cursor: pointer;
+    text-decoration: none;
+    border-bottom-left-radius: 10%;
+    border-top-left-radius: 10%;
+}
